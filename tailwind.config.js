@@ -1,5 +1,8 @@
 export default {
-  content: ["./*.html"],
+  content: [
+    "./index.html",
+    "./pages/*.html"
+  ],
   theme: {
     extend: {},
   },
